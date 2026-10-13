@@ -1,0 +1,15 @@
+
+<suite name="API Suite">
+
+    <test name="API Tests">
+
+        <classes>
+            <class name="tests.GetPostTest"/>
+            <class name="tests.CreatePostTest"/>
+            <class name="tests.UpdatePostTest"/>
+            <class name="tests.DeletePostTest"/>
+        </classes>
+
+    </test>
+
+</suite>
